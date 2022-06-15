@@ -2,7 +2,7 @@
 - 👀 I’m interested in People Data and Business Development
 - 🌱 I’m currently learning SQL, R Programming and Data Visualization on Tableau
 - 💞️ I’m looking to collaborate on projects relating to the employee experience and engagement.
-- 📫 If you want to connect and collaborate, send me a message via LinkedIn https://www.linkedin.com/in/nahsaanbain OR email me... nahsaanbain@gmail.com
+- 📫 If you want to connect and collaborate, send me a message via LinkedIn https://www.linkedin.com/in/nahsaanbain 
 
 <!---
 Nahsaan/Nahsaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
